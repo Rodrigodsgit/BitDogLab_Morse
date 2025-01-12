@@ -42,6 +42,21 @@ A simulação foi realizada no **Wokwi**, podendo ser acessada pelo link (https:
 
 ---
 
+## Visualizações da Implementação
+
+### Workwi Web
+
+![Simulação do Wokwi](gifs/gi1.gif)
+
+### Workwi VsCode
+
+![Simulação do Wokwi](gifs/gi2.gif)
+
+### BitDogLab
+
+![Simulação do Wokwi](gifs/gi3.gif)
+
+---
 ## Referências
 
 Todas as informações e recursos utilizados foram retirados do Moodle do **EmbarcaTech** e complementados por dúvidas esclarecidas durante mentorias.
